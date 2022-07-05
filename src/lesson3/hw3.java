@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 
-class Task1 {
+class hw3 {
 
 
     static <T> void swap(T[] array, int firstIndex, int secondIndex) {
